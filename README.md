@@ -14,16 +14,16 @@ FreeBSD cloudflared：https://cloudflared.bowring.uk
 
 ## 常见问题
 
-### 由于 S8 服务器禁止访问 cloudflared.bowring.uk，可以使用以下命令来下载 Cloudflared：
-
-```
-bash <(curl -s https://raw.githubusercontent.com/jinnan11/serv00-api/main/cf-f.sh)
-```
-
 ### Serv00会不定期重启，导致网站访问报错(Error 1033)。可以使用以下命令重新加载保存的应用列表：
 
 ```
 pm2 resurrect
+```
+
+### 由于 S8 服务器禁止访问 cloudflared.bowring.uk，可以使用以下命令来下载 Cloudflared：
+
+```
+bash <(curl -s https://raw.githubusercontent.com/jinnan11/serv00-api/main/cf-f.sh)
 ```
 
 ### pm2常用指令
