@@ -1,6 +1,8 @@
-## [Serv00搭建各种服务 | Saika's Blog](https://saika.us.kg/2024/01/27/serv00_logs)
+## Serv00搭建各种服务 | Saika's Blog
 
 ### 相关网站
+
+Serv00搭建各种服务：https://saika.us.kg/2024/01/27/serv00_logs
 
 Serv00：https://www.serv00.com
 
