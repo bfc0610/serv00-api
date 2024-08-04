@@ -5,5 +5,5 @@
 由于 S8 服务器禁止访问 cloudflared.bowring.uk，可以使用以下命令来下载 Cloudflared：
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/jinnan11/serv00_api/main/cf-f.sh)
+bash <(curl -s https://raw.githubusercontent.com/jinnan11/serv00-api/main/cf-f.sh)
 ```
