@@ -2,4 +2,5 @@ wget https://raw.githubusercontent.com/jinnan11/serv00_api/main/cloudflared-free
 
 if
     echo "作者：槿南 https://i.jnpan.top"
+    echo
 fi
