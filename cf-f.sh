@@ -3,4 +3,7 @@ wget https://raw.githubusercontent.com/jinnan11/serv00_api/main/cloudflared-free
 if [ -f "./cloudflared" ]; then
     echo "cloudflared-freebsd已经下载完成！"
     echo "作者主页： https://i.jnpan.top"
+else
+    echo "cloudflared-freebsd已经下载失败！"
+    echo
 fi
