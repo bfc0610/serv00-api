@@ -4,6 +4,8 @@
 
 Serv00：https://www.serv00.com
 
+FreeBSD AList：https://github.com/uubulb/alist-freebsd
+
 FreeBSD cloudflared：https://cloudflared.bowring.uk
 
 ### 常见问题
