@@ -3,3 +3,4 @@ wget https://raw.githubusercontent.com/jinnan11/serv00_api/main/cloudflared-free
 clear
 echo "cloudflared-freebsd已经下载完成！"
 echo "作者主页： https://i.jnpan.top"
+echo
