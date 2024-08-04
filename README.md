@@ -10,6 +10,8 @@ FreeBSD AList：https://github.com/uubulb/alist-freebsd
 
 FreeBSD cloudflared：https://cloudflared.bowring.uk
 
+站点监测：https://uptimerobot.com
+
 ### 常见问题
 
 由于 S8 服务器禁止访问 cloudflared.bowring.uk，可以使用以下命令来下载 Cloudflared：
