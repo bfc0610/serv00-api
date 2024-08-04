@@ -14,7 +14,7 @@ FreeBSD cloudflared：https://cloudflared.bowring.uk
 
 ## 常见问题
 
-### Serv00会不定期重启，导致网站访问报错(Error 1033)。可以使用以下命令重新加载保存的应用列表：
+### Serv00会不定期重启，可以使用以下命令重新加载保存的应用列表：
 
 ```
 pm2 resurrect
