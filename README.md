@@ -23,9 +23,15 @@ bash <(curl -s https://raw.githubusercontent.com/jinnan11/serv00-api/main/cf-f.s
 Serv00会不定期重启，据说 S2服务器 以后的自启动任务是的无效的
 
 pm2常用指令
+
 pm2 list # 显示所有进程状态
+
 pm2 stop all # 停止所有进程
+
 pm2 restart all # 重启所有进程
+
 pm2 save # 保存当前应用列表
+
 pm2 resurrect # 重新加载保存的应用列表
+
 pm2 delete all # 删除某个应用程序
