@@ -22,7 +22,7 @@ bash <(curl -s https://raw.githubusercontent.com/jinnan11/serv00-api/main/cf-f.s
 
 Serv00会不定期重启，据说 S2服务器 以后的自启动任务是的无效的
 
-pm2常用指令
+### pm2常用指令
 
 pm2 list # 显示所有进程状态
 
