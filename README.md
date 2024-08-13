@@ -6,9 +6,11 @@ Serv00搭建各种服务：https://saika.us.kg/2024/01/27/serv00_logs
 
 Serv00：https://www.serv00.com
 
+FreeBSD AList：https://github.com/uubulb/alist-freebsd
+
 FreeBSD cloudflared：https://cloudflared.bowring.uk
 
-站点监测：https://uptimerobot.com
+站点监测：https://dashboard.uptimerobot.com
 
 ## 常见问题
 
